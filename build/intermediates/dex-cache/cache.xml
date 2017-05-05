@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\yfl\demo\muluDemo\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\yfl\demo\muluDemo\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_389b7a1ba312f136d342d36fa82e012ec092ecc4.jar" />
+    </item>
+
+</items>

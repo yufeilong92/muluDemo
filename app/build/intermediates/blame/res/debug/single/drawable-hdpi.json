@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_cut_line.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_cut_line.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_search_input.9.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_search_input.9.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_show_head_toast.9.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_show_head_toast.9.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_head.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_head.png"
+    },
+    {
+        "merged": "E:\\yfl\\demo\\muluDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_edit_text_delbtn.png",
+        "source": "E:\\yfl\\demo\\muluDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_text_delbtn.png"
+    }
+]
